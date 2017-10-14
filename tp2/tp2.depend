@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1507080890 source:e:\tp2\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"validar.h"
+
+1507080960 e:\tp2\cliente.h
+
+1506866230 e:\tp2\validar.h
+
+1507081010 source:e:\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"validar.h"
+
+1506825466 source:e:\tp2\va.c
+
+1507081616 source:e:\tp2\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1507506974 source:d:\tp2\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"validar.h"
+
+1507505916 d:\tp2\cliente.h
+
+1506866230 d:\tp2\validar.h
+
+1507505916 source:d:\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"validar.h"
+
+1506825466 source:d:\tp2\va.c
+
+1507081616 source:d:\tp2\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1507507172 source:e:\trabajo_p2\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"validar.h"
+
+1507505916 e:\trabajo_p2\cliente.h
+
+1506866230 e:\trabajo_p2\validar.h
+
+1507507174 source:e:\trabajo_p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"validar.h"
+
+1506825466 source:e:\trabajo_p2\va.c
+
+1507939424 source:e:\trabajo_p2\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
